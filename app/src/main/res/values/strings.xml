@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mobile bussiness</string>
+    <string name="company_description">Mobi Dev Factory is a startup founded by Thabo Mahlangu that design and develop custom mobile apps for your needs. Make sure to contact us and  we
+will help you make your ideas come alive in the hands.</string>
+    <string name="compant_name">Mobi Dev Factory</string>
+    <string name="contact_details">Contact us: infor@mobi.dev.fectory.mobi</string>
 </resources>
